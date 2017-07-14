@@ -12,4 +12,4 @@ Desenvolvimento de métodos de procura guiada e optimização do método de reso
 
 O jogo é o VectorRacer (também conhecido como RaceTrack).
 
-Mais informação no  [Enunciado do Projecto] (https://github.com/tiagokinas/ia1617/blob/master/projIA1617v0.6.pdf)
+Mais informação no  [Enunciado do Projecto](https://github.com/tiagokinas/ia1617/blob/master/projIA1617v0.6.pdf)
